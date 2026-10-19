@@ -4,7 +4,6 @@ using TMPro;
 public class IdleGame : MonoBehaviour
 {
     [SerializeField] private TMP_Text goldText;
-
     private double gold;
 
     private void Start()
@@ -20,6 +19,6 @@ public class IdleGame : MonoBehaviour
 
     private void Refresh()
     {
-        goldText.text = "Gold: " + gold.ToString("N0");
+        goldText.text = "°ñµå : " + gold.ToString("N0");
     }
 }
