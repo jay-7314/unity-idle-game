@@ -9,7 +9,7 @@ Android에서 직접 실행해 확인했습니다.
 
 ## 플레이 영상
 
-(영상 링크 또는 GitHub에 업로드한 영상을 여기에 넣습니다)
+https://github.com/user-attachments/assets/36078f83-8fc3-470d-b9a8-fd6f8bc31905
 
 ## 구현한 기능
 
