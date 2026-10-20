@@ -5,7 +5,7 @@ Android에서 직접 실행해 확인했습니다.
 
 | 메인 화면 | 오프라인 보상 |
 |---|---|
-| <img src="docs/main.jpg" width="240"> | <img src="docs/offline.jpg" width="240"> |
+| <img src=https://github.com/user-attachments/assets/12733f05-94ad-4b55-a749-60080deb7496" width="240"> | <img src="https://github.com/user-attachments/assets/5855811a-1cda-47d4-8035-c1dc539b05a4" width="240"> |
 
 ## 플레이 영상
 
