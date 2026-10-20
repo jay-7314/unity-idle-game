@@ -1,0 +1,8 @@
+C:/Github/MyGame3/unity-idle-game/.utmp/RelWithDebInfo/x2g184qf/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Github/MyGame3/unity-idle-game/.utmp/RelWithDebInfo/x2g184qf/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Github/MyGame3/unity-idle-game/.utmp/RelWithDebInfo/x2g184qf/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Github/MyGame3/unity-idle-game/.utmp/RelWithDebInfo/x2g184qf/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Github/MyGame3/unity-idle-game/.utmp/RelWithDebInfo/x2g184qf/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Github/MyGame3/unity-idle-game/.utmp/RelWithDebInfo/x2g184qf/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Github/MyGame3/unity-idle-game/.utmp/RelWithDebInfo/x2g184qf/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Github/MyGame3/unity-idle-game/.utmp/RelWithDebInfo/x2g184qf/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

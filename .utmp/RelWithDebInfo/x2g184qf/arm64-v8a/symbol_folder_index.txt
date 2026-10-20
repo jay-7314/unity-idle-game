@@ -1,0 +1,1 @@
+C:\Github\MyGame3\unity-idle-game\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\x2g184qf\obj\arm64-v8a
