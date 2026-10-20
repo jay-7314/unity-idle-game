@@ -5,7 +5,7 @@ Android에서 직접 실행해 확인했습니다.
 
 | 메인 화면 | 오프라인 보상 | 플레이 영상 |
 |---|---|---|
-| <img src="https://github.com/user-attachments/assets/12733f05-94ad-4b55-a749-60080deb7496" width="240"> | <img src="https://github.com/user-attachments/assets/5855811a-1cda-47d4-8035-c1dc539b05a4" width="240"> | <video src="https://github.com/user-attachments/assets/36078f83-8fc3-470d-b9a8-fd6f8bc31905" width="240" controls></video> |
+| <img src="https://github.com/user-attachments/assets/12733f05-94ad-4b55-a749-60080deb7496" width="240"> | <img src="https://github.com/user-attachments/assets/5855811a-1cda-47d4-8035-c1dc539b05a4" width="240"> | <video src="https://github.com/user-attachments/assets/d8e4a3b2-a7f0-4fff-a5f4-ab8c128aa9a5" width="240" controls></video> |
 
 ## 구현한 기능
 
